@@ -16,4 +16,4 @@ Wir suchen ein etablierten Unternehmen, welches wir zum weiteren Wachstum treibe
 
 * Mitarbeiter: Mindestens 5
 
-* Regionen: Hauptsächlich Bayern, Baden Württemberg und Hessen
+* Regionen: Bayern, Baden Württemberg und Hessen
