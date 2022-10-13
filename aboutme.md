@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Über uns
+subtitle: Wer sind wir?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Wir sind Gerardo Salonia und Guillermo Cobián De Vinatea, zwei Professionals mit über 15 Jahren Berufserfahrung in Weltkonzernen, wie SAP, Arvato Bertelsmann, Santander Bank, Infosys und Accenture. Nach zwei sehr erfolgreichen Karrieren sieht das Team als nächster logischer Schritt der Einstieg in der Selbständigkeit durch den Unternehmenskauf
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Unser Werdegang
+Wir kennen uns seit der Studienzeit an der Universität Mannheim. Wir haben als Team umfangreiche Erfahrung in der Unternehmensführung, im Management von großen und multidisziplinären Teams, in der Entwicklung und Implementierung neuer Geschäftsmodellen, in der Optimierung von Prozessen sowie in der Gewinnung und Steuerung von Großprojekten in B2B und B2G Bereich. Als Geschäftsführer bringt Guillermo wertvolles Praxis-Know-How in der Führung eines mittelständischen Unternehmens mit 300 Mitarbeiter und einen Umsatz von über 13 Mio. USD, in der Durchführung von Business Transformation Projekten sowie in der Digitalisierung von Unternehmen. In seiner Tätigkeit als Unternehmensberater, berät Gerardo Kunden in der Implementierung und Anwendung von Künstliche Intelligenz um Prozesse und Abläufe zu optimieren und zu automatisieren. Darüber hinaus hat Gerardo langjährige Erfahrung sowohl in der Mitarbeiterführung als auch in der Projektleitung von großen Teams (100 Mitarbeiter). Gerardo verfügt überumfangreiche Erfahrung in der Entwicklung von neuen Geschäften und in der Gewinnung von B2B Projekten in einstelligen Millionen Bereich.
