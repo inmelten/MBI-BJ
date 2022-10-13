@@ -8,12 +8,12 @@ Wir suchen ein etablierten Unternehmen, welches wir zum weiteren Wachstum treibe
 
 ### Eckdaten
 
-Umsatz über 1 Million €
+* Umsatz über 1 Million €
 
-EBITDA: über 10% und über 250.000€
+* EBITDA: über 10% und über 250.000€
 
-Alter: Mindestens 5 Jahren
+* Alter: Mindestens 5 Jahren
 
-Mitarbeiter: Mindestens 5
+* Mitarbeiter: Mindestens 5
 
-Regionen: Hauptsächlich Bayern, Baden Württemberg und Hessen
+* Regionen: Hauptsächlich Bayern, Baden Württemberg und Hessen
