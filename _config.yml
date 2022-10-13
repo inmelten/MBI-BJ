@@ -20,7 +20,7 @@ author: Cobián Salonia MBI
 ###############################################
 
 navbar-links:
-  Start: "home" #"index.html"
+  Start: "index.html"
   Über uns: "aboutme"
   Was wir suchen: "unternehmen"
  # Resources:
