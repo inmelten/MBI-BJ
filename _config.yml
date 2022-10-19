@@ -21,8 +21,8 @@ author: Cobián Salonia MBI
 
 navbar-links:
   Start: "index.html"
-  Über uns: "aboutme"
-  Was wir suchen: "unternehmen"
+  Das Team: "team"
+  Was wir suchen: "ziel"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
